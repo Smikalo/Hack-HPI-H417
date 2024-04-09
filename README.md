@@ -4,6 +4,7 @@ For processing historical and metadata, we relied on the AccIndex project by [An
 During the hackathon we managed to train the Pytorch model to epoch 20 and to a loss of 0.2 and put it partially to use in a Flutter mobile app. Backend and frontend, written in C# and Dart respectively.
 
 H417 Team members:
+
 [Eduard Sobol](https://www.linkedin.com/in/eduard-sobol/), sobol.edik@gmail.com, https://github.com/Edward1an
 
 [Maksym Floria](https://www.linkedin.com/in/maksym-floria-9b1a64296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), floryan2206@gmail.com, https://github.com/TomatoTheVeg
